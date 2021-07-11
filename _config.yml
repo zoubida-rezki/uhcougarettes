@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Maryum Mateen
   pic: 1
-  position: Lead Designer
+  position: President
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Lena Luc
   pic: 2
-  position: Lead Marketer
+  position: Vice President
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Melika Nassizadeh
   pic: 3
-  position: Lead Developer
+  position: Event Coordinator
   social:
     - title: twitter
       url: #
@@ -42,9 +42,42 @@ people:
     - title: google-plus
       url: #
      
-- name: Kay Garland
+- name: Shannon Lombardo
   pic: 1
-  position: Lead Designer
+  position: Treasurer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+      
+- name: Mayssam Kalajo
+  pic: 1
+  position: Secretary
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+      
+- name: Iliana Chevez
+  pic: 1
+  position: Membership Chair
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+      
+- name: Shannon Puliyampallil
+  pic: 1
+  position: Webmaster
   social:
     - title: twitter
       url: #
