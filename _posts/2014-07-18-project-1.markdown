@@ -1,9 +1,9 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: First General Meeting
+subtitle: Learn more about the club and meet the officers!
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-07-13
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
