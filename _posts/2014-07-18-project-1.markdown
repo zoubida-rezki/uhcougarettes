@@ -1,6 +1,6 @@
 ---
 title: First General Meeting
-subtitle: Learn more about the club and meet the officers!
+subtitle: Learn more about our values and mission!
 layout: default
 modal-id: 1
 date: 2021-07-13
