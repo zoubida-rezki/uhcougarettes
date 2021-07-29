@@ -1,15 +1,16 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Resume Workshop
+subtitle: Enhance your resume!
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: staytuned.jpg
+img: workshop.png
+thumbnail: workshop.jpg
 alt: image-alt
-project-date: April 2014
+project-date: TBA
+location: TBA
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! NOTE: Everyone is invited (even non-members).
 
 ---
