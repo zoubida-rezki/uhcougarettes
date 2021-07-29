@@ -1,16 +1,17 @@
 ---
 title: Resume Workshop
-subtitle: Enhance your resume!
+subtitle: Enhance your resume
 layout: default
-modal-id: 2
-date: 2021-07-29
+modal-id: 1
+date: 2014-07-17
 img: workshop.png
 thumbnail: workshop.jpg
 alt: image-alt
 project-date: TBA
 location: TBA
 category: Web Development
-description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! NOTE: Everyone is invited (even non-members).
+description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! Everyone is invited (even non-members).
 
 ---
+
 
