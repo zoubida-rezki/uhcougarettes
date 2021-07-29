@@ -4,8 +4,8 @@ subtitle: Learn about our values and mission!
 layout: default
 modal-id: 1
 date: 2021-07-13
-img: dreams.png
-thumbnail: staytuned.jpg
+img: meeting.png
+thumbnail: meeting.png
 alt: image-alt
 project-date: April 2014
 location: Start Bootstrap
