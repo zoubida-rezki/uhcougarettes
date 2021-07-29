@@ -13,78 +13,78 @@ people:
   pic: 1
   position: President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+   # - title: twitter
+   #   url: #
+   # - title: facebook
+   #   url: #
+   # - title: stack-overflow
+   #   url: #
 
 - name: Lena Luc
   pic: 2
   position: Vice President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+   # - title: twitter
+   #   url: #
+   # - title: facebook
+   #   url: #
+   # - title: linkedin
+   #   url: #
 
 - name: Melika Nassizadeh
   pic: 3
   position: Event Coordinator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
      
 - name: Shannon Lombardo
   pic: 4
   position: Treasurer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/svlombardo
+   # - title: facebook
+  #    url: #
+  #  - title: stack-overflow
+   #   url: #
       
 - name: Mayssam Kalajo
   pic: 5
   position: Secretary
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/mayssam-kalajo-9289a0214/
+  #  - title: facebook
+   #   url: #
+   # - title: stack-overflow
+   #   url: #
       
 - name: Iliana Chevez
   pic: 6
   position: Membership Chair
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+   # - title: twitter
+   #   url: #
+   # - title: facebook
+   #   url: #
+  #  - title: stack-overflow
+   #   url: #
       
 - name: Shannon Puliyampallil
   pic: 7
   position: Webmaster
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
