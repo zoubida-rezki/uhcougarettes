@@ -3,7 +3,7 @@ title: Resume Workshop
 subtitle: Enhance your resume!
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2021-07-29
 img: workshop.png
 thumbnail: workshop.jpg
 alt: image-alt
@@ -13,3 +13,4 @@ category: Web Development
 description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! NOTE: Everyone is invited (even non-members).
 
 ---
+
