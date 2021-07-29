@@ -2,7 +2,7 @@
 title: Resume Workshop
 subtitle: Enhance your resume!
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-17
 img: workshop.png
 thumbnail: workshop.jpg
