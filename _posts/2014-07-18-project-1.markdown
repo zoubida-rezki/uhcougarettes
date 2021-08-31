@@ -7,8 +7,8 @@ date: 2021-07-13
 img: meeting.png
 thumbnail: meeting.png
 alt: image-alt
-project-date: September, 24th 2021 @6pm
-location: TBA
+project-date: September, 10th 2021 @6pm
+location: PGH 232
 category: Web Development
 description: Learn about our values and mission! This meeting holds important information about the club. We also would like everyone to get to know each other! We will have ice breakers and a time for everyone to get to know the officers! Make sure to check out our socials at the very bottom of our page and information on how to join if you cannot attend the meeting. Our GroupMe is active so questions are welcome on there.  We can't wait to meet you guys! :)
 
