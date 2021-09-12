@@ -4,8 +4,8 @@ subtitle: First socail event of this semester!
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: staytuned.jpg
+img: coffeechat.jpg
+thumbnail: coffeechat.jpg
 alt: image-alt
 project-date: September 14th, 2021 (From 6pm-8pm)
 location: Social Work Building Room L120B
