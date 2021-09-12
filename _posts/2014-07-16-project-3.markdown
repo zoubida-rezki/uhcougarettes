@@ -1,15 +1,15 @@
 ---
-title: TBA
-subtitle: TBA
+title: Coffee Chat & Chill
+subtitle: First socail event of this semester!
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
 thumbnail: staytuned.jpg
 alt: image-alt
-project-date: TBA
-location: TBA
+project-date: September 14th, 2021 (From 6pm-8pm)
+location: Social Work Building Room L120B
 category: Web Development
-description: TBA
+description: Come out to our social event. We will have tea avaliable! Work on assignments and applying to internships together!
 
 ---
