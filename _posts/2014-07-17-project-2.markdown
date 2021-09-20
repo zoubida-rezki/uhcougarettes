@@ -1,6 +1,6 @@
 ---
 title: Resumes & Internship 
-subtitle: Enhance your resume
+subtitle: Work together on Resumes and internship apps!
 layout: default
 modal-id: 2
 date: 2014-07-17
