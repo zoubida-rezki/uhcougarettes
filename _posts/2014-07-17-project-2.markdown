@@ -1,5 +1,5 @@
 ---
-title: Resume and Internship Applications
+title: Resumes & Internship 
 subtitle: Enhance your resume
 layout: default
 modal-id: 2
