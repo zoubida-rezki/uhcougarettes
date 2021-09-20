@@ -10,6 +10,8 @@ alt: image-alt
 project-date: 9/19/21
 location: Check description for more info.
 category: Web Development
-description: Please enter this link to fill out the form to enter the competition (https://docs.google.com/forms/d/e/1FAIpQLSfwbNEvtj1u2gHwtKw07FTU6eY2HzQnf0jycq3osvwIjfYbgQ/viewform) It will be held through the Kattis Website. All information needed is found on the form.
+description: Please enter the link below to fill out the form to enter the competition. It will be held through the Kattis Website. All information needed is found on the form.
+website: https://docs.google.com/forms/d/e/1FAIpQLSfwbNEvtj1u2gHwtKw07FTU6eY2HzQnf0jycq3osvwIjfYbgQ/viewform
+websitename: Sign In Form and Info
 
 ---
