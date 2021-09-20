@@ -1,6 +1,6 @@
 ---
 title: Resumes & Internship 
-subtitle: Work together on Resumes and internship apps!
+subtitle: Work on Resumes and internship apps!
 layout: default
 modal-id: 2
 date: 2014-07-17
