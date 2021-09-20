@@ -1,5 +1,5 @@
 ---
-title: Resume Workshop
+title: Resume Building and Internship Applications
 subtitle: Enhance your resume
 layout: default
 modal-id: 2
@@ -7,10 +7,10 @@ date: 2014-07-17
 img: workshop.png
 thumbnail: workshop.png
 alt: image-alt
-project-date: TBA
-location: TBA
+project-date: September 21, 2021
+location: Room AH 106 6pm-8pm
 category: Web Development
-description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! Everyone is invited (even non-members).
+description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! Everyone is invited (even non-members). Together we can apply for internships too!
 
 ---
 
