@@ -7,7 +7,7 @@ date: 2014-07-16
 img: coffeechat.jpg
 thumbnail: coffeechat.jpg
 alt: image-alt
-project-date: TBA
+project-date: 11/09
 location: TBA
 category: Web Development
 description: Come out to our social event. We will have tea avaliable! Work on assignments and applying to internships together!
