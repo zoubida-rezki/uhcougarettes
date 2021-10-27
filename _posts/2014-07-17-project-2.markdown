@@ -11,6 +11,7 @@ project-date: October 28, 2021
 location: PGH 232 6pm-8pm
 category: Web Development
 description: Join us for our combined social event! Please RSVP in the link below!
+websitename: RSVP HERE!
 
 ---
 
