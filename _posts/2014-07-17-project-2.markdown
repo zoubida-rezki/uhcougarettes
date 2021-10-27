@@ -1,6 +1,6 @@
 ---
-title: Resumes & Internship 
-subtitle: Work on Resumes and internship apps!
+title: Halloween Social
+subtitle: Combined social with cs/it clubs!
 layout: default
 modal-id: 2
 date: 2014-07-17
