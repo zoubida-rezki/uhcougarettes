@@ -4,13 +4,13 @@ subtitle: Combined social with cs/it clubs!
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: workshop.png
-thumbnail: workshop.png
+img: halloween.png
+thumbnail: halloween.png
 alt: image-alt
-project-date: September 21, 2021
-location: Room AH 106 6pm-8pm
+project-date: October 28, 2021
+location: PGH 232 6pm-8pm
 category: Web Development
-description: Get tips inorder to enhance your resume and prepare for the upcoming career fair! Everyone is invited (even non-members). Together we can apply for internships too!
+description: Join us for our combined social event! Please RSVP in the link below!
 
 ---
 
