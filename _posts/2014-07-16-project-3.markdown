@@ -1,16 +1,17 @@
 ---
-title: Coffee Chat & Chill
-subtitle: Our social event!
+title: Kattis Competitions
+subtitle: Improve problem solving skills.
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
-img: coffeechat.jpg
-thumbnail: coffeechat.jpg
+img: KattisCompetition.png
+thumbnail: KattisCompetition.png
 alt: image-alt
-project-date: 11/09
-location: TBA
+project-date: October dates (10/16  10/30)
+location: Check form link for more info.
 category: Web Development
-description: Come out to our social event. We will have tea avaliable! Work on assignments and applying to internships together!
-websitename: No links
+description: Please enter the link below to fill out the form to enter the competition. It will be held through the Kattis Website. All information needed is found on the form.
+website: https://docs.google.com/forms/d/e/1FAIpQLSfwbNEvtj1u2gHwtKw07FTU6eY2HzQnf0jycq3osvwIjfYbgQ/viewform
+websitename: Sign In Form and Info
 
 ---
