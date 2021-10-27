@@ -1,17 +1,15 @@
 ---
-title: Python Story Telling
-subtitle: Python Story Telling
+title: TBA
+subtitle: TBA
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2014-07-16
-img: PST.png
-thumbnail: PST.png
-alt: PST.png
-project-date: N/A
-location: N/A
+img: golden.png
+thumbnail: staytuned.jpg
+alt: image-alt
+project-date: TBA
+location: TBA
 category: Web Development
-description: Follow the link for more information.
-website: https://pythonstorytelling.herokuapp.com/
-websitename: Python Story Telling Webpage
+description: TBA
 
 ---
