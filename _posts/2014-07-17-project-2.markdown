@@ -12,6 +12,7 @@ location: PGH 232 6pm-8pm
 category: Web Development
 description: Join us for our combined social event! Please RSVP in the link below!
 websitename: RSVP HERE!
+website: https://forms.gle/p4kgQ9rb1N88JxrVA
 
 ---
 
