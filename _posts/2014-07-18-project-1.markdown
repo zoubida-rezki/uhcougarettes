@@ -1,16 +1,15 @@
 ---
-title: Coffee Chat & Chill
-subtitle: Our social event!
+title: TBA
+subtitle: TBA
 layout: default
-modal-id: 3
+modal-id: 6
 date: 2014-07-16
-img: coffeechat.jpg
-thumbnail: coffeechat.jpg
+img: golden.png
+thumbnail: staytuned.jpg
 alt: image-alt
 project-date: TBA
 location: TBA
 category: Web Development
-description: Come out to our social event. We will have tea avaliable! Work on assignments and applying to internships together!
-websitename: No links
+description: TBA
 
 ---
