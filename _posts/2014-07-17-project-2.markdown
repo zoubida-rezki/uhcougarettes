@@ -1,18 +1,16 @@
 ---
-title: Halloween Social
-subtitle: Combined social with cs/it clubs!
+title: TBA
+subtitle: TBA
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: halloween.png
-thumbnail: halloween.png
+modal-id: 6
+date: 2014-07-16
+img: golden.png
+thumbnail: staytuned.jpg
 alt: image-alt
-project-date: October 28, 2021
-location: PGH 232 6pm-8pm
+project-date: TBA
+location: TBA
 category: Web Development
-description: Join us for our combined social event! Please RSVP in the link below!
-websitename: RSVP HERE!
-website: https://forms.gle/p4kgQ9rb1N88JxrVA
+description: TBA
 
 ---
 
