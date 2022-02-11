@@ -1,17 +1,15 @@
 ---
-title: Kattis Competitions
-subtitle: Improve problem solving skills.
+title: TBA
+subtitle: TBA
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2014-07-16
-img: KattisCompetition.png
-thumbnail: KattisCompetition.png
+img: golden.png
+thumbnail: staytuned.jpg
 alt: image-alt
-project-date: October dates (10/16  10/30)
-location: Check form link for more info.
+project-date: TBA
+location: TBA
 category: Web Development
-description: Please enter the link below to fill out the form to enter the competition. It will be held through the Kattis Website. All information needed is found on the form.
-website: https://docs.google.com/forms/d/e/1FAIpQLSfwbNEvtj1u2gHwtKw07FTU6eY2HzQnf0jycq3osvwIjfYbgQ/viewform
-websitename: Sign In Form and Info
+description: TBA
 
 ---
