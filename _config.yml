@@ -20,10 +20,10 @@ people:
    # - title: stack-overflow
    #   url: #
 
-- name: Lena Luc
-  pic: 2
-  position: Vice President
-  social:
+#- name: Lena Luc
+#  pic: 2
+#  position: Vice President
+ # social:
    # - title: twitter
    #   url: #
    # - title: facebook
@@ -31,10 +31,10 @@ people:
    # - title: linkedin
    #   url: #
 
-- name: Melika Nassizadeh
-  pic: 3
-  position: Event Coordinator
-  social:
+#- name: Melika Nassizadeh
+#  pic: 3
+#  position: Event Coordinator
+#  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
