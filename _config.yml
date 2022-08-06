@@ -9,10 +9,12 @@ description: "Welcome to UH Cougarettes! Our organization strives to build a sen
 
 # Team names, titles and social links
 people:
-- name: Maryum Mateen
+- name: Shannon Lombardo
   pic: 1
   position: President
   social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/svlombardo
    # - title: twitter
    #   url: #
    # - title: facebook
@@ -20,7 +22,7 @@ people:
    # - title: stack-overflow
    #   url: #
 
-#- name: Lena Luc
+#- name: Natalie Severino
 #  pic: 2
 #  position: Vice President
  # social:
@@ -31,9 +33,9 @@ people:
    # - title: linkedin
    #   url: #
 
-#- name: Melika Nassizadeh
+#- name: Mary Nguyen
 #  pic: 3
-#  position: Event Coordinator
+#  position: Treasurer
 #  social:
   #  - title: twitter
   #    url: #
@@ -42,31 +44,27 @@ people:
   #  - title: google-plus
    #   url: #
      
-- name: Shannon Lombardo
+- name: Sana
   pic: 4
-  position: Treasurer
+  position: Secretaryand Coding Event Coordinator
   social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/svlombardo
    # - title: facebook
   #    url: #
   #  - title: stack-overflow
    #   url: #
       
-- name: Mayssam Kalajo
+- name: Sara Umer
   pic: 5
-  position: Secretary
+  position: Marketing Chair
   social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/mayssam-kalajo-9289a0214/
   #  - title: facebook
    #   url: #
    # - title: stack-overflow
    #   url: #
       
-- name: Iliana Chevez
+- name: Saarah Latiff
   pic: 6
-  position: Membership Chair
+  position: Eventing Coordinator
   social:
    # - title: twitter
    #   url: #
@@ -75,9 +73,9 @@ people:
   #  - title: stack-overflow
    #   url: #
       
-- name: Shannon Puliyampallil
+- name: Fatima Mirza
   pic: 7
-  position: Webmaster
+  position: Recruitment Chair
   social:
  #   - title: twitter
  #     url: #
