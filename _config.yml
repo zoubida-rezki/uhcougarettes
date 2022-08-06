@@ -33,9 +33,9 @@ people:
    # - title: linkedin
    #   url: #
 
-#- name: Mary Nguyen
-#  pic: 3
-#  position: Treasurer
+- name: Mary Nguyen
+  pic: 3
+  position: Treasurer
 #  social:
   #  - title: twitter
   #    url: #
@@ -62,10 +62,10 @@ people:
    # - title: stack-overflow
    #   url: #
       
-- name: Saarah Latiff
-  pic: 6
-  position: Eventing Coordinator
-  social:
+#- name: Saarah Latiff
+  #pic: 6
+ # position: Eventing Coordinator
+ # social:
    # - title: twitter
    #   url: #
    # - title: facebook
