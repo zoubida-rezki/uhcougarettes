@@ -36,7 +36,7 @@ people:
 - name: Mary Nguyen
   pic: 3
   position: Treasurer
-#  social:
+  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
