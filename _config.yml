@@ -58,7 +58,7 @@ people:
   position: Marketing Chair
   social:
       - title: linkedin
-      url: https://www.linkedin.com/in/sara-umer-353172213
+        url: https://www.linkedin.com/in/sara-umer-353172213
   #  - title: facebook
    #   url: #
    # - title: stack-overflow
@@ -91,7 +91,7 @@ people:
   position: Webmaster
   social:
       - title: linkedin
-      url: https://www.linkedin.com/in/jaelyn-rogers-224801176
+        url: https://www.linkedin.com/in/jaelyn-rogers-224801176
  #   - title: twitter
  #     url: #
  #   - title: facebook
