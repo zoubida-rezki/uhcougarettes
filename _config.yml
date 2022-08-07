@@ -13,8 +13,8 @@ people:
   pic: 1
   position: President
   social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/svlombardo
+   # - title: linkedin
+   #  url: https://www.linkedin.com/in/svlombardo
    # - title: twitter
    #   url: #
    # - title: facebook
@@ -57,8 +57,8 @@ people:
   pic: 5
   position: Marketing Chair
   social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/sara-umer-353172213
+   #   - title: linkedin
+   #    url: https://www.linkedin.com/in/sara-umer-353172213
   #  - title: facebook
    #   url: #
    # - title: stack-overflow
@@ -90,8 +90,8 @@ people:
   pic: 8
   position: Webmaster
   social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/jaelyn-rogers-224801176
+  #   - title: linkedin
+  #     url: https://www.linkedin.com/in/jaelyn-rogers-224801176
  #   - title: twitter
  #     url: #
  #   - title: facebook
