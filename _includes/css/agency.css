@@ -94,6 +94,18 @@ h6 {
     background-image: none;
 }
 
+.column {
+  float: left;
+  width: 50.00%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .btn-primary.disabled,
 .btn-primary[disabled],
 fieldset[disabled] .btn-primary,
