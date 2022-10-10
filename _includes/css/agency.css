@@ -62,11 +62,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #f7c2c2;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #f7c2c2;
 }
 
 .btn-primary {
@@ -184,7 +184,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #ff7474;
 }
 
 .navbar-default .navbar-brand {
@@ -269,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #ff7474;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -281,7 +281,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/head_bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -669,7 +669,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #f7c2c2;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
