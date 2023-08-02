@@ -9,7 +9,7 @@ description: "Welcome to UH Cougarettes! Our organization strives to build a sen
 
 # Team names, titles and social links
 people:
-- name: Shannon Lombardo
+- name: Natalie Severino
   pic: 1
   position: President
   social:
@@ -22,7 +22,7 @@ people:
    # - title: stack-overflow
    #   url: #
 
-- name: Natalie Severino
+- name: Jaelyn Rogers
   pic: 2
   position: Vice President
   social:
@@ -44,18 +44,18 @@ people:
   #  - title: google-plus
    #   url: #
      
-- name: Sana Akbani
+- name: Saloni Sharma
   pic: 4
-  position: Secretary and Coding Event Coordinator
+  position: Secretary
   social:
    # - title: facebook
   #    url: #
   #  - title: stack-overflow
    #   url: #
       
-- name: Sara Umer
+- name: Muskan Nehra
   pic: 5
-  position: Marketing Chair
+  position: Coding Event Coordinator
   social:
    #   - title: linkedin
    #    url: https://www.linkedin.com/in/sara-umer-353172213
