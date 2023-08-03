@@ -46,25 +46,16 @@ people:
      
 - name: Saloni Sharma
   pic: 4
-  position: Secretary 
-  social:
-   # - title: facebook
-  #    url: #
-  #  - title: stack-overflow
-   #   url: #
-  
-  - name: Muskan Nehra
-  pic: 5
-  position:  Coding Event Coordinator
+  position: Secretary
   social:
    # - title: facebook
   #    url: #
   #  - title: stack-overflow
    #   url: #
       
-- name: khyaati khanna
-  pic: 6
-  position: Marketing Chair
+- name: Muskan Nehra
+  pic: 5
+  position: Coding Event Coordinator
   social:
    #   - title: linkedin
    #    url: https://www.linkedin.com/in/sara-umer-353172213
@@ -73,9 +64,9 @@ people:
    # - title: stack-overflow
    #   url: #
       
-- name: Ivy Doan 
-  pic: 7
-  position: Event Coordinator
+- name: khyaati khanna
+  pic: 6
+  position: Marketing Chair
   social:
    # - title: twitter
    #   url: #
@@ -84,9 +75,9 @@ people:
   #  - title: stack-overflow
    #   url: #
       
-- name: Tofi Oladipo
-  pic: 8
-  position: Recruitment Chair
+- name: Ivy Doan
+  pic: 7
+  position: Event Coordinator
   social:
  #   - title: twitter
  #     url: #
@@ -95,9 +86,9 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-- name: Zoubida Rezki
-  pic: 9
-  position: Webmaster
+- name: Tofi Oladipo
+  pic: 8
+  position: Recruitment Chair
   social:
   #   - title: linkedin
   #     url: https://www.linkedin.com/in/jaelyn-rogers-224801176
@@ -109,9 +100,9 @@ people:
  #     url: #
  
  
-- name: saalihah Latiff
-  pic: 10
-  position: Outreach Chair
+- name: Zoubida Rezki
+  pic: 9
+  position: Webmaster
   social:
  #   - title: twitter
  #     url: #
@@ -120,17 +111,28 @@ people:
  #   - title: stack-overflow
  #     url: #
 
- - name: Sara Umer 
+- name: saalihah Latiff
+  pic: 10
+  position: Outreach Chair
+  social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
+
+- name: Sara Umer 
   pic: 11
   position: Photographer
   social:
- #   - title: twitter
- #     url: #
- #   - title: facebook
- #     url: #
- #   - title: stack-overflow
- #     url: #
- 
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
