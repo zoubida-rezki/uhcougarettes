@@ -9,8 +9,8 @@ description: "Welcome to UH Cougarettes! Our organization strives to build a sen
 
 # Team names, titles and social links
 people:
-- name: Natalie Severino
-  pic: 1
+- name: Saalihah Latiff
+  pic: 10
   position: President
   social:
    # - title: linkedin
@@ -32,9 +32,20 @@ people:
    #   url: #
    # - title: linkedin
    #   url: #
+   
+- name: Natalie Severino
+  pic: 1
+  position: Senior Advisor
+  social:
+   # - title: twitter
+   #   url: #
+   # - title: facebook
+   #   url: #
+   # - title: linkedin
+   #   url: #
 
-- name: Mary Nguyen
-  pic: 3
+- name: Fatema Meem
+  # pic: 3
   position: Treasurer
   social:
   #  - title: twitter
@@ -63,6 +74,17 @@ people:
    #   url: #
    # - title: stack-overflow
    #   url: #
+
+- name: Saarah Latiff
+  #pic: 5
+  position: Events Chair
+  social:
+   #   - title: linkedin
+   #    url: https://www.linkedin.com/in/sara-umer-353172213
+  #  - title: facebook
+   #   url: #
+   # - title: stack-overflow
+   #   url: #
       
 - name: Khyaati Khanna
   pic: 6
@@ -75,16 +97,6 @@ people:
   #  - title: stack-overflow
    #   url: #
       
-# - name: Ivy Doan
-#   pic: 7
-#   position: Event Coordinator
-#   social:
-#  #   - title: twitter
-#  #     url: #
-#  #   - title: facebook
-#  #     url: #
-#  #   - title: stack-overflow
-#  #     url: #
 
 - name: Tofi Oladipo
   pic: 8
