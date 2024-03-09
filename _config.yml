@@ -44,16 +44,6 @@ people:
    # - title: linkedin
    #   url: #
 
-- name: Fatema Meem
-  # pic: 3
-  position: Treasurer
-  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
      
 - name: Saloni Sharma
   pic: 4
@@ -74,17 +64,6 @@ people:
    #   url: #
    # - title: stack-overflow
    #   url: #
-
-- name: Saarah Latiff
-  #pic: 5
-  position: Events Chair
-  social:
-   #   - title: linkedin
-   #    url: https://www.linkedin.com/in/sara-umer-353172213
-  #  - title: facebook
-   #   url: #
-   # - title: stack-overflow
-   #   url: #
       
 - name: Khyaati Khanna
   pic: 6
@@ -98,10 +77,10 @@ people:
    #   url: #
       
 
-- name: Tofi Oladipo
-  pic: 8
-  position: Recruitment Chair
-  social:
+# - name: Tofi Oladipo
+#   pic: 8
+#   position: Recruitment Chair
+#   social:
   #   - title: linkedin
   #     url: https://www.linkedin.com/in/jaelyn-rogers-224801176
  #   - title: twitter
@@ -123,10 +102,10 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-- name: Saalihah Latiff
-  pic: 10
-  position: Outreach Chair
-  social:
+# - name: Saalihah Latiff
+#   pic: 10
+#   position: Outreach Chair
+#   social:
   #   - title: twitter
   #     url: #
   #   - title: facebook
@@ -155,6 +134,28 @@ people:
   #     url: #
   #   - title: stack-overflow
   #     url: #
+
+- name: Saarah Latiff
+  #pic: 5
+  position: Events Chair
+  social:
+   #   - title: linkedin
+   #    url: https://www.linkedin.com/in/sara-umer-353172213
+  #  - title: facebook
+   #   url: #
+   # - title: stack-overflow
+   #   url: #
+
+- name: Fatema Meem
+  # pic: 3
+  position: Treasurer
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
