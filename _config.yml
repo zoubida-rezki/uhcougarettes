@@ -54,7 +54,7 @@ people:
   #  - title: stack-overflow
    #   url: #
       
-- name: Muskan Nehra
+- name: Ayan Anees
   pic: Ayan
   position: Coding Event Coordinator
   social:
@@ -102,10 +102,10 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-# - name: Saalihah Latiff
-#   pic: 10
-#   position: Outreach Chair
-#   social:
+- name: Youssef Ateya
+  pic: yusuf
+  position: Outreach Chair
+  social:
   #   - title: twitter
   #     url: #
   #   - title: facebook
@@ -135,8 +135,8 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Saarah Latiff
-  #pic: 5
+- name: Ana Vu
+  pic: ana
   position: Events Chair
   social:
    #   - title: linkedin
