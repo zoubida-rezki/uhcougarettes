@@ -146,10 +146,21 @@ people:
    # - title: stack-overflow
    #   url: #
 
-#- name: Fatema Meem
-  # pic: 3
+#- name:  Widyan Hussein
+  # pic: 
  # position: Treasurer
  # social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+
+- name: Feyza Macan
+  pic: ferida
+  position: Treasurer
+  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
