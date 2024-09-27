@@ -146,6 +146,17 @@ people:
    # - title: stack-overflow
    #   url: #
 
+- name: Hatice Avci
+  pic: hadije
+  position: Tech lead
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+   
 - name:  Widyan Hussein
   pic: cordai_temp
   position: Tech lead
