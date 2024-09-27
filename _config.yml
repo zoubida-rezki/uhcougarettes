@@ -45,10 +45,10 @@ people:
    #   url: #
 
      
-- name: Saloni Sharma
-  pic: 4
-  position: Secretary
-  social:
+#- name: Saloni Sharma
+#  pic: 4
+#  position: Secretary
+ # social:
    # - title: facebook
   #    url: #
   #  - title: stack-overflow
@@ -113,10 +113,10 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Sara Umer 
-  pic: 11
-  position: Photographer
-  social:
+#- name: Sara Umer 
+ # pic: 11
+ # position: Photographer
+ # social:
   #   - title: twitter
   #     url: #
   #   - title: facebook
@@ -124,10 +124,10 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Khadeeja Tapkirwala
-  pic: 12
-  position: Recruitment Chair
-  social:
+#- name: Khadeeja Tapkirwala
+#  pic: 12
+#  position: Recruitment Chair
+#  social:
   #   - title: twitter
   #     url: #
   #   - title: facebook
