@@ -45,7 +45,7 @@ people:
    #   url: #
 
      
-- name: Sakinah
+- name: Sakinah Naviwala
   pic: sakinah
   position: Secretary
   social:
@@ -113,7 +113,7 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Aizah
+- name: Aizah Khan
   pic: azra
   position: SheCodes Director
   social:
@@ -124,7 +124,7 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Cordai
+- name: Cordai Shadie
   pic: cordai_temp
   position: Treasurer
   social:
