@@ -146,10 +146,10 @@ people:
    # - title: stack-overflow
    #   url: #
 
-#- name:  Widyan Hussein
-  # pic: 
- # position: Treasurer
- # social:
+- name:  Widyan Hussein
+  pic: cordai_temp
+  position: Tech lead
+  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
@@ -159,7 +159,18 @@ people:
 
 - name: Feyza Macan
   pic: ferida
-  position: Treasurer
+  position: Tech lead
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+
+- name: Angela Abrea
+  pic: angie
+  position: Tech lead
   social:
   #  - title: twitter
   #    url: #
