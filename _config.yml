@@ -102,7 +102,7 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-- name: Youssef Ateya
+- name: Stephanie Anongdeth
   pic: yusuf
   position: Outreach Chair
   social:
@@ -189,6 +189,18 @@ people:
   #    url: #
   #  - title: google-plus
    #   url: #
+
+- name: thessaly quintana
+  pic: angie
+  position: digital marketer
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
