@@ -124,10 +124,10 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Cordai Shadie
-  pic: cordai_temp
-  position: Treasurer
-  social:
+#- name: Cordai Shadie
+#  pic: cordai_temp
+#  position: Treasurer
+#  social:
   #   - title: twitter
   #     url: #
   #   - title: facebook
@@ -146,10 +146,10 @@ people:
    # - title: stack-overflow
    #   url: #
 
-- name: Hatice Avci
-  pic: hadije
-  position: Tech lead
-  social:
+#- name: Hatice Avci
+#  pic: hadije
+#  position: Tech lead
+#  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
@@ -168,10 +168,10 @@ people:
   #  - title: google-plus
    #   url: #
 
-- name: Feyza Macan
-  pic: ferida
-  position: Tech lead
-  social:
+#- name: Feyza Macan
+#  pic: ferida
+#  position: Tech lead
+#  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
