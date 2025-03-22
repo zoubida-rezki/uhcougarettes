@@ -179,9 +179,11 @@ people:
   #  - title: google-plus
    #   url: #
 
-- name: Angela Abrea
-  pic: angie
-  position: Tech lead
+
+
+- name: thessaly quintana
+  pic: thessaly
+  position: digital marketer
   social:
   #  - title: twitter
   #    url: #
@@ -190,9 +192,9 @@ people:
   #  - title: google-plus
    #   url: #
 
-- name: thessaly quintana
-  pic: thessaly
-  position: digital marketer
+- name: Angela Abrea
+  pic: angie
+  position: Tech lead
   social:
   #  - title: twitter
   #    url: #
